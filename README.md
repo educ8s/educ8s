@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=educ8s" alt="educ8s" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My YouTube Channels:</h3>
 <p align="left">
 educ8s.tv <a href="https://www.youtube.com/c/educ8s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="educ8s" height="30" width="40" /></a><br>Programming With Nick <a href="https://studio.youtube.com/channel/UC3ivOTE5EgpmF2DHLBmWIWg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="educ8s" height="30" width="40" /></a>
 </p>
