@@ -40,12 +40,6 @@ I create educational content focused on programming, electronics, and maker proj
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=educ8s&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
-</p>
-
----
-
 ## 🤝 Let's Connect!
 
 Feel free to reach out if you want to collaborate on projects, need help with programming, or just want to chat about technology!
