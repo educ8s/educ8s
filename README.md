@@ -40,13 +40,6 @@ I create educational content focused on programming, electronics, and maker proj
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=educ8s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=educ8s&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="170"/>
-</p>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=educ8s&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
 </p>
