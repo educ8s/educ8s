@@ -1,23 +1,60 @@
-<h1 align="center">Hi 👋, I'm Nick</h1>
-<h3 align="center">A Passionate Software Engineer, Maker & Content Creator from Sparta, Greece. 🚀</h3>
+# Hi there, I'm Nick 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=educ8s&label=Profile%20views&color=0e75b6&style=flat" alt="educ8s" /> </p>
+### Passionate Software Engineer, Maker & Content Creator from Sparta, Greece 🚀
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=educ8s" alt="educ8s" /></a> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=educ8s&label=Profile%20views&color=0e75b6&style=flat)
 
-<h3 align="left">My YouTube Channels:</h3>
-<p align="left">
-educ8s.tv <a href="https://www.youtube.com/c/educ8s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="educ8s" height="30" width="40" /></a><br>Programming With Nick <a href="https://studio.youtube.com/channel/UC3ivOTE5EgpmF2DHLBmWIWg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="educ8s" height="30" width="40" /></a>
+---
+
+## 🎓 About Me
+
+🐍 **Python Developer & OOP Instructor**
+
+I create educational content focused on programming, electronics, and maker projects. My mission is to make complex concepts accessible and fun for everyone!
+
+**🆕 Latest Course:** Master Object-Oriented Programming by building a living cell ecosystem in 3.5 hours  
+👉 [Enroll Now](https://bit.ly/3NaMfg4)
+
+---
+
+## 📺 YouTube Channels
+
+- **[educ8s.tv](https://www.youtube.com/c/educ8s)** - Electronics, Arduino, and Maker Projects
+- **[Programming With Nick](https://studio.youtube.com/channel/UC3ivOTE5EgpmF2DHLBmWIWg)** - Programming Tutorials & Courses
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**
+- Python | C/C++ | Kotlin
+
+**Platforms & Tools:**
+- Arduino | Android Development | SQLite
+
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=educ8s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=educ8s&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="170"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=educ8s&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
+</p>
 
-<h3 align="left">About Me:</h3>
-🐍 Python Developer | OOP Instructor
-New course: Master Object-Oriented Programming by building a living cell ecosystem in 3.5 hours
-→ Enroll now: https://bit.ly/3NaMfg4
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=educ8s&show_icons=true&locale=en&layout=compact" alt="educ8s" /></p>
+## 🤝 Let's Connect!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=educ8s&show_icons=true&locale=en" alt="educ8s" /></p>
+Feel free to reach out if you want to collaborate on projects, need help with programming, or just want to chat about technology!
+
+⭐️ From [educ8s](https://github.com/educ8s)
