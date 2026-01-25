@@ -13,7 +13,7 @@
 I create educational content focused on programming, electronics, and maker projects. My mission is to make complex concepts accessible and fun for everyone!
 
 **🆕 Latest Course:** Master Object-Oriented Programming by building a living cell ecosystem in 3.5 hours  
-👉 [Enroll Now](https://bit.ly/3NaMfg4)
+90% OFF for a few days 👉 [Enroll Now](https://bit.ly/3NaMfg4)
 
 ---
 
