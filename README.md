@@ -12,8 +12,20 @@
 
 I create educational content focused on programming, electronics, and maker projects. My mission is to make complex concepts accessible and fun for everyone!
 
-**🆕 Latest Course:** Master Object-Oriented Programming by building a living cell ecosystem in 3.5 hours  
-90% OFF for a few days 👉 [Enroll Now](https://bit.ly/3NaMfg4)
+## 🎓 Featured Course: Master Object-Oriented Programming
+
+**Build a Living Cell Ecosystem from Scratch**
+
+Learn OOP principles through hands-on project work in just 3.5 hours. Perfect for developers who want to understand encapsulation, inheritance, polymorphism, and design patterns through practical application.
+
+**✨ What you'll build:**
+- A fully interactive cellular ecosystem simulation
+- Real-world implementation of OOP design patterns
+- Modular, scalable code architecture
+
+**🎯 Limited Time Offer:** 90% OFF (expires soon)
+
+**[→ Enroll Now](https://bit.ly/3NaMfg4)**
 
 ---
 
