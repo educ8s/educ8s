@@ -1,5 +1,5 @@
 # Hi there, I'm Nick 👋
-### Software Engineer, Maker & Content Creator — now building toward Cybersecurity & GRC 🔐
+### Software Engineer, Maker & Content Creator. Now building toward Cybersecurity & GRC 🔐
 
 ![Profile Views](https://komarev.com/ghpvc/?username=educ8s&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -9,16 +9,16 @@
 
 🐍 **Python Developer, OOP Instructor & Aspiring Cybersecurity/GRC Analyst**
 
-I create educational content focused on programming, electronics, and maker projects, with 13+ years of hands-on software engineering experience. I'm currently transitioning into cybersecurity and information security governance, risk, and compliance (GRC), building hands-on skills in network security, incident analysis, and security frameworks — while continuing to teach and build.
+I create educational content on programming, electronics, and maker projects. I have 13+ years of hands-on software engineering experience. Right now I'm transitioning into cybersecurity and information security governance, risk, and compliance (GRC). I'm building hands-on skills in network security, incident analysis, and security frameworks, while I keep teaching and building.
 
 ---
 
 ## 🔐 Cybersecurity Journey
 
 - Currently completing the **Google Cybersecurity Certificate** and studying for **CompTIA Security+**
-- Completed **Deloitte Australia's Cyber Job Simulation** (log analysis & incident investigation)
-- Building a home security lab (Kali Linux, Wireshark, network analysis)
-- Background: MSc in Advanced Computer Systems (Embedded Systems), thesis on cryptographic hardware implementation in FPGA
+- Completed **Deloitte Australia's Cyber Job Simulation** (log analysis and incident investigation)
+- Building a home security lab with Kali Linux and Wireshark
+- Background: MSc in Advanced Computer Systems (Embedded Systems). Thesis on cryptographic hardware implementation in FPGA
 
 ---
 
@@ -26,7 +26,7 @@ I create educational content focused on programming, electronics, and maker proj
 
 **Build a Living Cell Ecosystem from Scratch**
 
-Learn OOP principles through hands-on project work in just 3.5 hours — encapsulation, inheritance, polymorphism, and design patterns through practical application.
+Learn OOP principles through hands-on project work in just 3.5 hours. Encapsulation, inheritance, polymorphism, and design patterns, all through practical application.
 
 **✨ What you'll build:**
 - A fully interactive cellular ecosystem simulation
@@ -39,8 +39,8 @@ Learn OOP principles through hands-on project work in just 3.5 hours — encapsu
 
 ## 📺 YouTube Channels
 
-- **[educ8s.tv](https://www.youtube.com/c/educ8s)** - Electronics, Arduino, and Maker Projects
-- **[Programming With Nick](https://studio.youtube.com/channel/UC3ivOTE5EgpmF2DHLBmWIWg)** - Programming Tutorials & Courses
+- **[educ8s.tv](https://www.youtube.com/c/educ8s)**. Electronics, Arduino, and Maker Projects
+- **[Programming With Nick](https://studio.youtube.com/channel/UC3ivOTE5EgpmF2DHLBmWIWg)**. Programming Tutorials & Courses
 
 ---
 
@@ -66,6 +66,6 @@ Learn OOP principles through hands-on project work in just 3.5 hours — encapsu
 
 ## 🤝 Let's Connect!
 
-Feel free to reach out if you want to collaborate on projects, discuss cybersecurity, or just want to chat about technology!
+Feel free to reach out if you want to collaborate on projects, talk cybersecurity, or just chat about technology!
 
 ⭐️ From [educ8s](https://github.com/educ8s)
