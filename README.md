@@ -15,18 +15,19 @@ I create educational content on programming, electronics, and maker projects. I 
 
 ## 🔐 Cybersecurity Journey
 
-- Currently completing the **Google Cybersecurity Certificate** and studying for **CompTIA Security+**
+- Completed the **Google Cybersecurity Certificate**
+- Currently studying for **CompTIA Security+** and working toward TryHackMe's **SOC Level 1 (SAL1)** certification
 - Completed **Deloitte Australia's Cyber Job Simulation** (log analysis and incident investigation)
 - Building a home security lab with Kali Linux and Wireshark
 - Background: MSc in Advanced Computer Systems (Embedded Systems). Thesis on cryptographic hardware implementation in FPGA
 
 ---
 
-## 🎓 Featured Course: Master Object-Oriented Programming
+## 🎓 My Course: Master Object-Oriented Programming
 
 **Build a Living Cell Ecosystem from Scratch**
 
-Learn OOP principles through hands-on project work in just 3.5 hours. Encapsulation, inheritance, polymorphism, and design patterns, all through practical application.
+I created this course to teach OOP principles through hands-on project work in just 3.5 hours. Encapsulation, inheritance, polymorphism, and design patterns, all through practical application.
 
 **✨ What you'll build:**
 - A fully interactive cellular ecosystem simulation
