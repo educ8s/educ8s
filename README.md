@@ -15,9 +15,12 @@ I create educational content on programming, electronics, and maker projects. I 
 
 ## 🔐 Cybersecurity Journey
 
+My interest in cybersecurity actually goes back to my teenage years, long before it became my professional focus. That early curiosity about how systems work (and how they break) shaped my path into engineering, and it's what eventually pulled me back into security more formally, this time with the structure and depth to turn it into a career.
+
 - Completed the **Google Cybersecurity Certificate**
 - Currently studying for **CompTIA Security+** and working toward TryHackMe's **SOC Level 1 (SAL1)** certification
 - Completed **Deloitte Australia's Cyber Job Simulation** (log analysis and incident investigation)
+- Ranked in the **top 4%** of all TryHackMe users worldwide, and **top 500 in Greece** — [view profile](https://tryhackme.com/p/nickthegreek82)
 - Building a home security lab with Kali Linux and Wireshark
 - Background: MSc in Advanced Computer Systems (Embedded Systems). Thesis on cryptographic hardware implementation in FPGA
 
