@@ -15,9 +15,9 @@ I create educational content on programming, electronics, and maker projects. I 
 
 ## 🔐 Cybersecurity Journey
 
-Okay, real talk: my cybersecurity origin story starts in ancient Sparta. I know, I know.
+Okay, real talk: my cybersecurity origin story starts in ancient Sparta. 
 
-But hear me out. I grew up there, and Spartans were doing cryptography a *very* long time before it was cool. There's this thing called a scytale, basically a wooden stick ancient Spartan generals used to scramble secret military messages so they looked like nonsense to anyone without the matching stick. As a kid, learning that people were hiding secrets in plain sight thousands of years ago genuinely blew my mind. I didn't know it yet, but that was the moment.
+I grew up in Sparta, and Spartans were doing cryptography a *very* long time before it was cool. There's this thing called a scytale, basically a wooden stick ancient Spartan generals used to scramble secret military messages so they looked like nonsense to anyone without the matching stick. As a kid, learning that people were hiding secrets in plain sight thousands of years ago genuinely blew my mind. I didn't know it yet, but that was the moment.
 
 That curiosity never really left. It just went quiet for a while, buried under a computer science degree, a master's thesis where I built encryption into actual hardware, some time doing secure military communications, and 13+ years of building software and teaching people how to code. Cybersecurity was always the thing humming in the background. Now I'm finally chasing it properly. One step at a time. It feels less like starting something new and more like coming home.
 
