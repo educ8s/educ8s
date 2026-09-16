@@ -24,7 +24,7 @@ That curiosity never really left. It just went quiet for a while, buried under a
 - Completed the **Google Cybersecurity Certificate**
 - Currently studying for **CompTIA Security+** and working toward TryHackMe's **SOC Level 1 (SAL1)** certification
 - Completed **Deloitte Australia's Cyber Job Simulation** (log analysis and incident investigation)
-- Ranked in the **top 4%** of all TryHackMe users worldwide, and **top 500 in Greece** — [view profile](https://tryhackme.com/p/nickthegreek82)
+- Ranked in the **top 3%** of all TryHackMe users worldwide, and **top 400 in Greece** — [view profile](https://tryhackme.com/p/nickthegreek82)
 - Building a home security lab with Kali Linux and Wireshark
 - Background: MSc in Advanced Computer Systems (Embedded Systems). Thesis on cryptographic hardware implementation in FPGA
 
