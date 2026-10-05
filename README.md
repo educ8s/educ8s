@@ -21,6 +21,8 @@ I grew up in Sparta, and Spartans were doing cryptography a *very* long time bef
 
 That curiosity never really left. It just went quiet for a while, buried under a computer science degree, a master's thesis where I built encryption into actual hardware, some time doing secure military communications, and 13+ years of building software and teaching people how to code. Cybersecurity was always the thing humming in the background. Now I'm finally chasing it properly. One step at a time. It feels less like starting something new and more like coming home.
 
+- Earned the **ISO/IEC 27001 Lead Auditor** credential
+- Completed the **GRC Mastery** course (ISO 27001 auditing, risk management, and compliance)
 - Completed the **Google Cybersecurity Certificate**
 - Currently studying for **CompTIA Security+** and working toward TryHackMe's **SOC Level 1 (SAL1)** certification
 - Completed **Deloitte Australia's Cyber Job Simulation** (log analysis and incident investigation)
@@ -60,8 +62,11 @@ I created this course to teach OOP principles through hands-on project work in j
 **Platforms & Tools:**
 - Arduino | Android Development | SQLite | FPGA/Embedded Systems
 
+**Security & GRC:**
+- ISO 27001 (Lead Auditor) | Risk Management | Compliance Auditing
+
 **Currently Learning:**
-- Network Security | Wireshark | Kali Linux | ISO 27001 | NIST CSF
+- Network Security | Wireshark | Kali Linux | NIST CSF
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
@@ -69,6 +74,7 @@ I created this course to teach OOP principles through hands-on project work in j
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Security](https://img.shields.io/badge/-Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
+![ISO 27001](https://img.shields.io/badge/-ISO%2027001%20Lead%20Auditor-1F4E79?style=for-the-badge&logoColor=white)
 
 ---
 
