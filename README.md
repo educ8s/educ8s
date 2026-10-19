@@ -24,6 +24,7 @@ That curiosity never really left. It just went quiet for a while, buried under a
 - Earned the **ISO/IEC 27001 Lead Auditor** credential
 - Completed the **GRC Mastery** course (ISO 27001 auditing, risk management, and compliance)
 - Completed the **Google Cybersecurity Certificate**
+- Completed TryHackMe's **AI Security** path (prompt injection, LLM data leakage and securing AI-powered systems). AI security is the area I'm most excited about
 - Currently studying for **CompTIA Security+** and working toward TryHackMe's **SOC Level 1 (SAL1)** certification
 - Completed **Deloitte Australia's Cyber Job Simulation** (log analysis and incident investigation)
 - Ranked in the **top 1%** of all TryHackMe users worldwide, and **top 110 in Greece** — [view profile](https://tryhackme.com/p/nickthegreek82)
@@ -66,7 +67,7 @@ I created this course to teach OOP principles through hands-on project work in j
 - ISO 27001 (Lead Auditor) | Risk Management | Compliance Auditing
 
 **Currently Learning:**
-- Network Security | Wireshark | Kali Linux | NIST CSF
+- Network Security | Wireshark | Kali Linux | NIST CSF | AI/LLM Security (OWASP Top 10 for LLMs)
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
