@@ -30,7 +30,7 @@ That curiosity never really left. It just went quiet for a while, buried under a
 - 📜 **Deloitte Australia Cyber Job Simulation**: log analysis and incident investigation
 - 🎯 Completed TryHackMe's **SOC Level 1** path (alert triage in Splunk and Elastic, phishing analysis, MITRE ATT&CK), with the **SAL1** exam this month
 - 📚 Currently studying for **CompTIA Security+** (November 2026)
-- 🏆 Ranked in the **top 1%** of all TryHackMe users worldwide, and **top 110 in Greece** ([view profile](https://tryhackme.com/p/nickthegreek82))
+- 🏆 Ranked in the **top 1%** of all TryHackMe users worldwide, and **top 100 in Greece** ([view profile](https://tryhackme.com/p/nickthegreek82))
 
 **Projects**
 - 📊 [**NIST CSF 2.0 Gap Assessment & Remediation Roadmap**](https://github.com/educ8s/nist-csf-cybersecurity-gap-assessment): all 106 subcategories across the 6 core functions, assessed for a B2B SaaS scenario, with a prioritised roadmap
