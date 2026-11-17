@@ -26,12 +26,13 @@ That curiosity never really left. It just went quiet for a while, buried under a
 - 🏅 **Qualys Certified Specialist – VMDR**: vulnerability scanning, prioritisation and remediation
 - 🏅 **TryHackMe AI Security Certificate** (October 2026): prompt injection, jailbreaking, RAG and data poisoning, AI supply chain security. AI security is the area I'm most excited about
 - 🏅 **Google Cybersecurity Certificate**
+- 🏅 **Microsoft Certified: Azure Fundamentals (AZ-900)** (November 2026): cloud concepts, core Azure services, security, identity, governance and cost management
 - 📜 **Cyber Regulatory Compliance & Policy Management** (CADMUS, EU co-funded): NIS2, DORA and the Cyber Resilience Act
 - 📜 **Deloitte Australia Cyber Job Simulation**: log analysis and incident investigation
 - 🎯 Completed TryHackMe's **SOC Level 1** path (alert triage in Splunk and Elastic, phishing analysis, MITRE ATT&CK), with the **SAL1** exam this month
 - 🎯 Completed TryHackMe's **DevSecOps** path (November 2026): securing CI/CD pipelines, Infrastructure as Code (IaC) and container security, and automating infrastructure management in a secure way
 - 📚 Currently studying for **CompTIA Security+** (November 2026)
-- 🏆 Ranked in the **top 1%** of all TryHackMe users worldwide, and **top 80 in Greece** ([view profile](https://tryhackme.com/p/nickthegreek82))
+- 🏆 Ranked in the **top 1%** of all TryHackMe users worldwide, and **top 70 in Greece** ([view profile](https://tryhackme.com/p/nickthegreek82))
 
 **Projects**
 - 📊 [**NIST CSF 2.0 Gap Assessment & Remediation Roadmap**](https://github.com/educ8s/nist-csf-cybersecurity-gap-assessment): all 106 subcategories across the 6 core functions, assessed for a B2B SaaS scenario, with a prioritised roadmap
@@ -87,7 +88,7 @@ I created this course to teach OOP principles through hands-on project work in j
 - AI/LLM Security (OWASP Top 10 for LLM Applications)
 
 **Currently Learning:**
-- CompTIA Security+ | Microsoft security & Azure (SC-200, AZ-900) | Detection engineering
+- CompTIA Security+ | Microsoft security & Azure (SC-200) | Detection engineering
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
