@@ -13,6 +13,14 @@ I have 10+ years of hands-on software engineering experience, including Android 
 
 ---
 
+## 🍯 Featured Project: Azure SSH Honeypot & Threat Intelligence Lab
+
+### 👉 [**github.com/educ8s/azure-ssh-threat-intelligence-lab**](https://github.com/educ8s/azure-ssh-threat-intelligence-lab)
+
+A live honeypot in Azure that captures real SSH attacks. **Terraform** builds the infrastructure, **Cowrie** records every attacker who logs in, and the logs flow into **Microsoft Sentinel**, where I hunt with **KQL** and map activity to **MITRE ATT&CK**. *(In progress)*
+
+---
+
 ## 🔐 Cybersecurity Journey
 
 Okay, real talk: my cybersecurity origin story starts in ancient Sparta.
@@ -30,11 +38,13 @@ That curiosity never really left. It just went quiet for a while, buried under a
 - 📜 **Cyber Regulatory Compliance & Policy Management** (CADMUS, EU co-funded): NIS2, DORA and the Cyber Resilience Act
 - 📜 **Deloitte Australia Cyber Job Simulation**: log analysis and incident investigation
 - 🎯 Completed TryHackMe's **SOC Level 1** path (alert triage in Splunk and Elastic, phishing analysis, MITRE ATT&CK), with the **SAL1** exam this month
+- 🎯 Completed TryHackMe's **Security Engineer** path (November 2026): threat modelling and risk, secure network architecture, system hardening, secure SDLC and incident management
 - 🎯 Completed TryHackMe's **DevSecOps** path (November 2026): securing CI/CD pipelines, Infrastructure as Code (IaC) and container security, and automating infrastructure management in a secure way
 - 📚 Currently studying for **CompTIA Security+** (November 2026)
 - 🏆 Ranked in the **top 1%** of all TryHackMe users worldwide, and **top 70 in Greece** ([view profile](https://tryhackme.com/p/nickthegreek82))
 
 **Projects**
+- 🍯 [**Azure SSH Honeypot & Threat Intelligence Lab**](https://github.com/educ8s/azure-ssh-threat-intelligence-lab): Terraform, Cowrie, Microsoft Sentinel and KQL threat hunting on real attacker data *(in progress)*
 - 📊 [**NIST CSF 2.0 Gap Assessment & Remediation Roadmap**](https://github.com/educ8s/nist-csf-cybersecurity-gap-assessment): all 106 subcategories across the 6 core functions, assessed for a B2B SaaS scenario, with a prioritised roadmap
 - 🧪 Home security lab with Kali Linux and Wireshark
 
